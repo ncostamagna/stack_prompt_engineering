@@ -19,6 +19,24 @@ repository: https://github.com/f/awesome-chatgpt-prompts
 
 - Be specific
 
+## reverse prompting
+
+Reverse prompt engineering allows you to take existing texts or codes and generate new content based on those inputs.
+< br />
+for example:
+
+```
+Given Text: "The quick brown fox jumps over the lazy dog."
+Reverse prompt: "Write a story a quick brown fox and a lazy dog"
+
+Me:
+creating a reverse prompt enginner with "You can learn golang or nodejs, python is a good option too, you can learn in Udemy"
+
+ChatGTP:
+"If someone wants to learn programming, what are some recommended options and platforms, such as Udemy, for learning Golang, Node.js, and Python?"
+
+```
+
 ## Chat GTP 4
 
 More reasoning and conciseness but less spedd <br />
