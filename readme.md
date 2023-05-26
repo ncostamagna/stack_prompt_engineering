@@ -45,3 +45,17 @@ We can use with photos (for the time being)
 ## Limitation
 
 The infromation is until 2021. For new information is better use google.
+
+## Summary Youtube videos
+
+We can use Chat GTP for creating summary in youtube videos:
+
+- add Youtube Summary with ChatGTP chrome extension
+- We use the extension for getting video summary
+- let chat GPT create a summary
+
+```
+please summarize this text into a 5 bullet point list [video name] - Youtube [URL]
+[text]
+
+```
