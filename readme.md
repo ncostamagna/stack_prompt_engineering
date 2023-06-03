@@ -117,3 +117,33 @@ Please note that these details were based on the search results you provided, an
 
 [1] Python.org Downloads - Active Python Releases. Available at: https://www.python.org/downloads/
 ```
+
+# Bing
+
+## Steps
+
+- You must have MIcrosoft Edge
+- You have Bing button in the top of the Edge
+
+## What's Bing
+
+Bing is ChatGPT in your browser:
+
+- is free
+- it has access to INternet
+
+## Style conversation
+
+- creative: is more similar to ChatGPT
+- precise: exactly the information
+- balanced: balance between the two
+
+(The teacher of the course uses precise in general)
+
+## Compose
+
+write text about differents things, and in differents format, for example mails, blogs, etc..
+
+## Imagen
+
+We can tell its creating imagines with text
