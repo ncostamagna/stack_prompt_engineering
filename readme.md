@@ -118,6 +118,10 @@ Please note that these details were based on the search results you provided, an
 [1] Python.org Downloads - Active Python Releases. Available at: https://www.python.org/downloads/
 ```
 
+## Code
+
+We can use ChatGPT for creating regular expresion code
+
 # Bing
 
 ## Steps
@@ -147,3 +151,15 @@ write text about differents things, and in differents format, for example mails,
 ## Imagen
 
 We can tell its creating imagines with text
+
+# Midjourney
+
+is not free
+
+# Leonardo.ai
+
+Free application like Midjourney, url: https://app.leonardo.ai/
+
+## bluewillow.ai
+
+Other free application
