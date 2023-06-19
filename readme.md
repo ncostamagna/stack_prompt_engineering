@@ -118,6 +118,10 @@ Please note that these details were based on the search results you provided, an
 [1] Python.org Downloads - Active Python Releases. Available at: https://www.python.org/downloads/
 ```
 
+## ChatGPT Writer - Write mail, messages with AI
+
+Reply emails and messages, is a chrome extension
+
 ## Code
 
 We can use ChatGPT for creating regular expresion code
@@ -163,3 +167,17 @@ Free application like Midjourney, url: https://app.leonardo.ai/
 ## bluewillow.ai
 
 Other free application
+
+# ARC
+
+We can improve the quality of images
+https://arc.tencent.com/
+
+# Notion AI
+
+Only for plus plan, isn't abailable for free plan.
+
+- We can translate in different languages
+- We can improve writing
+- We can make longer
+- We can make shorter
