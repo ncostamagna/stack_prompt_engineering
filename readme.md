@@ -181,3 +181,62 @@ Only for plus plan, isn't abailable for free plan.
 - We can improve writing
 - We can make longer
 - We can make shorter
+
+# Zapier
+
+Conect differents apps, you can connet your email to slack to a Google sheet.<br />
+automatic send message to slack.<br />
+send message to specific area (with AI), in base of the client text.<br />
+We can create differents recent zaps.<br />
+We can create differents folders<br />
+We can use differents apps, for example: calendly, chatGPT, gmail, google forms, google sheets, OpenAI (GTP-3, DALL-E, Whispet), Slack<br />
+We can choose differents actions<br />
+
+# AI Voice
+
+## Murf.AI
+
+Generate Audio from text, you can choose different voices
+
+## Well said labs
+
+Generate Audio from text, you can choose different voices.
+it creates differents audios for each pharagraps
+
+## Eleven Labs
+
+Clone your voice
+
+## Resemble.ai
+
+Another AI Voice Cloner & Generator
+
+## PLay.ht
+
+We can use celebrity voices
+
+## Adobe
+
+Podcast adobe removes noise from voice recordings
+
+# AI Photo
+
+## D-ID
+
+We can add some image and do that the person seens to speak, of course we need to add an audio.
+
+## PLayground AI
+
+similar to photoshop, we can define (by text) changues of some image
+
+## LeiaPix
+
+Add movement for differents images
+
+## WatermarkRemover.io
+
+Remove water mark to your image
+
+## PicFinder
+
+Create images from some text
